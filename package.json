@@ -39,7 +39,7 @@
     "i18next": "^11.2.3",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.5",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.8",
     "mocha": "^10.2.0"
   },
   "prettier": {
