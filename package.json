@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "bluebird": "^3.7.2",
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0-rc.12",
     "fs-extra": "^5.0.0",
     "glob": "^7.1.2",
     "i18next": "^11.2.3",
